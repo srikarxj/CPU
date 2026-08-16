@@ -1,0 +1,11 @@
+*.vcd
+*.vvp
+*.fst
+*.lxt
+*.lxt2
+
+sim/*
+.vscode/
+.idea/
+*.swp
+.DS_Store
